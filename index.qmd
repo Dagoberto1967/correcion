@@ -1,6 +1,6 @@
 ---
 title: "DISTRIBUCIONES DE FRECUENCIAS"
-subtitle: "TALLER_1"
+subtitle: "TALLER_5"
 author: 
   - name: Dagoberto Salgado Horta
     affiliation: "Universidad del Tolima"
